@@ -335,4 +335,4 @@ vtkzlib-9.3.lib\
 
 如果觉得有价值，可以捐1毛钱电费。
 
-<img src="https://gitee.com/zgzs07/vtkqtsupport/blob/master/image/1708158267092.jpg" alt="1708158267092" style="zoom: 33%;" />
+<img src="https://gitee.com/zgzs07/vtkqtsupport/raw/master/image/1708158267092.jpg" alt="1708158267092" style="zoom: 33%;" />
